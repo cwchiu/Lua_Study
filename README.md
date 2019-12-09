@@ -2,7 +2,8 @@
 * 目前仍屬實驗性質
 lua图片服务器实现过程
 https://my.oschina.net/ranhai/blog/1596580
-----
+* [Lua 下的依賴注入](https://mp.weixin.qq.com/s/RbLZXX_HBPyssHZPKvoN4g)  
+
 Lua 异步封装
 https://my.oschina.net/kkkkkkkkkkkkk/blog/1595353
 ----
